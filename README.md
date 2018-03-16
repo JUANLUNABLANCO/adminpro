@@ -27,17 +27,21 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ## Instalations required
   NAME  			        INSTALACION				               VERSION COMAND	    1/1/2017	12/12/2017	ACTUALIZACION
 	_____________________________________________________________________________________________________________________________________
 
-  NODE.JS     		      WEB					                    >node -v	          V4.3.2    V8.9.3
-   	NPM         		    --					                    >npm -v		          V2.14.12  V5.5.1
-	TYPESCRIPT		        >npm install -g typescript		  >tsc -v				      V2.6.2 -- v2.4.2 ??
-	VISUAL STUDIO CODE	  WEB
-	ANGULAR CLI		        >npm install -g @angular/cli    >ng -v		V1.6.3				> npm cache clean		>npm install -g @angular/cli@latest
-                                >npm install -g @angular/angular.cli    -- not installed --             // are you sure of that    
+  NODE.JS     		      -- WEB					                    >node -v	          V4.3.2    V8.9.3
+  --> NPM         		  -- node.js se encarga					      >npm -v		          V2.14.12  V5.5.1
+	TYPESCRIPT		        >npm install -g typescript		      >tsc -v				      V2.6.2 -- v2.4.2 ??
+	VISUAL STUDIO CODE	  -- WEB
+	ANGULAR CLI		        >npm install -g @angular/cli        >ng -v		          V1.6.3				  > npm cache clean		
+                                                                                                > npm install -g @angular/cli@latest
+                                                                                                >npm install -g @angular/angular.cli    
+                                                                                                -- not installed --             
+                                                                                                // are you sure of that    
+        
         ANGULAR                 -- angular-cli se encarga --                                            V5.2.8
 															otra forma> npm uninstall -g @angular/cli	>npm cache verify
 				CREAR UN NUEVO PROYECTO CON CLI:	>ng new name-proyect	
@@ -56,7 +60,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 	NGX-BOOTSTRAP           -- explaining down --
 
 
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 --------------------------------------------------------------------------------
     TYPESCRIPT      2.6.2               //TYPESCRIPT EN EL SISTEMA
 --------------------------------------------------------------------------------
@@ -82,7 +86,7 @@ snippets for VSC:
     15. Typesrcypt Importer
 
 --------------------------------------------------------------------------------
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 BOOSTRAP 
 para instalar boostrap con angular hay varias formas.
 ################################################################################
